@@ -1,0 +1,78 @@
+body{
+    font-family: Arial, Verdana, sans-serif;
+    width: 610px;
+    margin: 20px auto;
+    background: #dfeaea;
+}
+fieldset{
+    background: #a5efef;
+    border-radius: 10px;
+}
+legend{
+    border: 1px solid #0ca4a4;
+    background-color: #0ca4a4;
+    border-radius: 5px;
+}
+.anhchandung img{
+    float: left;
+    border-radius: 5px;
+}
+.gioithieu{
+    display: inline-block;
+    margin: 0px 0px 10px 20px ;
+}
+.sothich{
+    line-height: 20px;
+    list-style: circle;
+}
+.hientai{
+    line-height: 20px;
+}
+.video{
+    float: left;
+    width: 180px;
+    background-color: #0ca4a4;
+    border: 1px solid #0ca4a4;
+    border-radius: 5px;
+    margin: 10px 0px 10px 5px ;
+}
+.video video{
+    margin: 10px 5px 5px 10px;
+    border-radius: 5px;
+}
+.anh{
+    display: inline-block;
+    width: 180px;
+    background-color: #0ca4a4;
+    border: 1px solid #0ca4a4;
+    border-radius: 5px;
+    margin: 10px 0px 10px 10px ;
+}
+.anh img{
+    border-radius: 5px;
+    margin: 4px 2px 2px 5px;
+}
+.bloger li{
+    list-style-image: url("/images/blog.png");
+}
+.bloger a{
+    color: #4a0659;
+    text-decoration: none;
+    font-size: 17px;
+}
+.bloger a:hover{
+    color: #d27138;
+}
+.bloger fieldset{
+    background-color: #3ec4c4;
+    border: #3ec4c4;
+}
+.bloger legend{
+    background-color: #16dede;
+}
+.bloger {
+    width: 180px;
+    display: inline-block;
+    line-height: 30px;
+    margin-left: 5px;
+}
